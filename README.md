@@ -25,5 +25,5 @@ The goal of this game is to guess the correct number stored in the program. You 
 
 2. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/dart-number-guessing-game.git
+   git clone https://github.com/MH-MuhammadHassan/dart-number-guessing-game.git
    cd dart-number-guessing-game
